@@ -33,3 +33,5 @@ The app isn't signed with a paid certificate, which is why both systems show a w
 ## Privacy
 
 Your data stays on your computer. The app only talks to the TPFFA site, the exposure form (and the Google reCAPTCHA it uses), and GitHub to check for updates.
+
+The app also sends an anonymous count of the reports you submit (just the number, nothing else) so the tool's maintainer can see how much it is used. You can turn this off on My details.
